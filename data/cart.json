@@ -1,0 +1,7 @@
+{
+  "singleProduct": {
+    "productIndex": 0,
+    "expectedQuantity": 1,
+    "expectedCartCount": 1
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "demoAccount": {
+    "username": "admin",
+    "password": "password123"
+  },
+  "newAccountDefaults": {
+    "password": "Qa@12345678",
+    "name": "QA Automation"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "nameUpdates": [
+    {
+      "caseName": "plain ascii name",
+      "newName": "QA Automation Updated"
+    },
+    {
+      "caseName": "name with Vietnamese diacritics",
+      "newName": "Nguyễn Thu Anh"
+    }
+  ]
+}

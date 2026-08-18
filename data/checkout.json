@@ -1,0 +1,18 @@
+{
+  "validRecipients": [
+    {
+      "caseName": "standard Hanoi address",
+      "recipientName": "Nguyen Van B",
+      "recipientPhone": "0923458170",
+      "address": "123 Duong XYZ, Phuong ABC, Ha Noi"
+    },
+    {
+      "caseName": "name with Vietnamese diacritics",
+      "recipientName": "Trần Thị Hương",
+      "recipientPhone": "0987654321",
+      "address": "45 Lê Lợi, Quận 1, TP Hồ Chí Minh"
+    }
+  ],
+  "paymentMethod": "cash",
+  "expectedOrderStatus": "confirmed"
+}
